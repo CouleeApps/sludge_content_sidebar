@@ -6,6 +6,8 @@ See README.txt in `media` for details on how to extract gameplay footage. I reco
 
 **AI Notice**: This plugin is entirely vibe coded by Codex. I make no claims as to its stability or quality.
 
+![](readme-preview.png)
+
 ## Metadata Version
 
 2
